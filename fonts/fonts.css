@@ -1,0 +1,65 @@
+/*@font-face{
+  font-family:'Bravarya_Sky';
+  src:url('BravaryaSky.eot');
+  src:url('BravaryaSky.eot?#iefix') format('embedded-opentype'),
+    url('BravaryaSky.woff2') format('woff2'),
+    url('BravaryaSky.woff') format('woff'),
+    url('BravaryaSky.ttf') format('truetype'),
+    url('BravaryaSky.svg#BravaryaSky') format('svg');
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap
+}*/
+@font-face{
+  font-family:'Hansel_Script';
+  src:url('HanselScript.eot');
+  src:url('HanselScript.eot?#iefix') format('embedded-opentype'),
+    url('HanselScript.woff2') format('woff2'),
+    url('HanselScript.woff') format('woff'),
+    url('HanselScript.ttf') format('truetype'),
+    url('HanselScript.svg#HanselScript') format('svg');
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap
+}
+@font-face{
+  font-family:'Ollie';
+  src:url('Ollie-.eot');
+  src:url('Ollie-.eot?#iefix') format('embedded-opentype'),
+    url('Ollie-.woff2') format('woff2'),
+    url('Ollie-.woff') format('woff'),
+    url('Ollie-.ttf') format('truetype'),
+    url('Ollie-.svg#Ollie-') format('svg');
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap
+}
+@font-face{
+  font-family:'Frosty_Sky_Script';
+  src:url('FrostySky-Script.eot');
+  src:url('FrostySky-Script.eot?#iefix') format('embedded-opentype'),
+    url('FrostySky-Script.woff2') format('woff2'),
+    url('FrostySky-Script.woff') format('woff'),
+    url('FrostySky-Script.ttf') format('truetype'),
+    url('FrostySky-Script.svg#FrostySky-Script') format('svg');
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap
+}
+@font-face{
+  font-family:'Honest_Sky';
+  src:url('HonestSky.eot');
+  src:url('HonestSky.eot?#iefix') format('embedded-opentype'),
+    url('HonestSky.woff2') format('woff2'),
+    url('HonestSky.woff') format('woff'),
+    url('HonestSky.ttf') format('truetype'),
+    url('HonestSky.svg#HonestSky') format('svg');
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap
+}/*
+.span1{font-family:'Bravarya_Sky'}*/
+.span2{font-family:'Hansel_Script'}
+.span3{font-family:'Ollie'}
+.span4{font-family:'Frosty_Sky_Script'}
+.span5{font-family:'Honest_Sky'}
